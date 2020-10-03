@@ -1,0 +1,81 @@
+<svg width="808" height="800" viewBox="0 0 808 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="808" height="800" fill="white"/>
+<path d="M0 5.99999C0 2.68629 2.68629 0 6 0H252V800H6.00001C2.6863 800 0 797.314 0 794V5.99999Z" fill="#F6F7F9"/>
+<rect x="67" y="43" width="80" height="12" fill="#E1E2E3"/>
+<rect x="67" y="86" width="80" height="12" fill="#E1E2E3"/>
+<rect x="67" y="130" width="80" height="12" fill="#E1E2E3"/>
+<rect x="27" y="38" width="22" height="22" fill="#E1E2E3"/>
+<rect x="27" y="81" width="22" height="22" fill="#E1E2E3"/>
+<rect x="27" y="124" width="22" height="22" fill="#E1E2E3"/>
+<rect x="27" y="197" width="96" height="12" fill="#E1E2E3"/>
+<rect x="67" y="239" width="80" height="12" fill="#E1E2E3"/>
+<rect x="67" y="282" width="80" height="12" fill="#E1E2E3"/>
+<rect x="67" y="326" width="80" height="12" fill="#E1E2E3"/>
+<rect x="27" y="234" width="22" height="22" fill="#E1E2E3"/>
+<rect x="27" y="277" width="22" height="22" fill="#E1E2E3"/>
+<rect x="27" y="320" width="22" height="22" fill="#E1E2E3"/>
+<rect x="27" y="393" width="96" height="12" fill="#E1E2E3"/>
+<rect x="67" y="435" width="80" height="12" fill="#E1E2E3"/>
+<rect x="67" y="478" width="80" height="12" fill="#E1E2E3"/>
+<rect x="27" y="430" width="22" height="22" fill="#E1E2E3"/>
+<rect x="27" y="473" width="22" height="22" fill="#E1E2E3"/>
+<rect x="282" y="83" width="145" height="12" fill="#E7E9EB"/>
+<rect x="282" y="38" width="236" height="22" fill="#E7E9EB"/>
+<rect x="560" y="38" width="22" height="22" rx="11" fill="#E7E9EB"/>
+<rect x="589" y="38" width="22" height="22" rx="11" fill="#E7E9EB"/>
+<rect x="618" y="38" width="22" height="22" rx="11" fill="#E7E9EB"/>
+<rect x="647" y="38" width="22" height="22" rx="11" fill="#E7E9EB"/>
+<rect x="676" y="38" width="22" height="22" rx="11" fill="#E7E9EB"/>
+<rect x="756" y="38" width="22" height="22" rx="11" fill="#E7E9EB"/>
+<circle cx="305" cy="152" r="23" fill="#E7E9EB"/>
+<rect x="345" y="135" width="107" height="15" fill="#DEDFE0"/>
+<rect x="640" y="138" width="60" height="10" fill="#DADADA"/>
+<rect x="345" y="156" width="137" height="15" fill="#E7E9EB"/>
+<rect x="345" y="250" width="66" height="24" fill="#E7E9EB"/>
+<rect x="421" y="250" width="66" height="24" fill="#E7E9EB"/>
+<rect x="345" y="190" width="355" height="12" fill="#DEDFE0"/>
+<rect x="345" y="214" width="220" height="12" fill="#DEDFE0"/>
+<circle cx="305" cy="327" r="23" fill="#E7E9EB"/>
+<rect x="345" y="310" width="155" height="15" fill="#DEDFE0"/>
+<rect x="640" y="313" width="60" height="10" fill="#DADADA"/>
+<rect x="345" y="331" width="225" height="15" fill="#E7E9EB"/>
+<rect x="345" y="425" width="66" height="24" fill="#E7E9EB"/>
+<rect x="421" y="425" width="66" height="24" fill="#E7E9EB"/>
+<rect x="345" y="365" width="323" height="12" fill="#DEDFE0"/>
+<rect x="345" y="389" width="72" height="12" fill="#DEDFE0"/>
+<rect x="345" y="419" width="152" height="110" fill="#DEDFE0"/>
+<rect x="505" y="419" width="152" height="110" fill="#DEDFE0"/>
+<circle cx="305" cy="586" r="23" fill="#E7E9EB"/>
+<rect x="345" y="569" width="107" height="15" fill="#DEDFE0"/>
+<rect x="640" y="572" width="60" height="10" fill="#DADADA"/>
+<rect x="345" y="590" width="137" height="15" fill="#E7E9EB"/>
+<rect x="345" y="684" width="66" height="24" fill="#E7E9EB"/>
+<rect x="421" y="684" width="66" height="24" fill="#E7E9EB"/>
+<rect x="345" y="624" width="355" height="12" fill="#DEDFE0"/>
+<rect x="345" y="648" width="220" height="12" fill="#DEDFE0"/>
+<circle cx="305" cy="761" r="23" fill="#E7E9EB"/>
+<rect x="345" y="744" width="155" height="15" fill="#DEDFE0"/>
+<rect x="640" y="747" width="60" height="10" fill="#DADADA"/>
+<rect x="345" y="765" width="225" height="15" fill="#E7E9EB"/>
+<rect x="345" y="799" width="323" height="12" fill="#DEDFE0"/>
+<circle cx="753" cy="504" r="25" fill="#F21D52"/>
+<g clip-path="url(#clip1)">
+<path d="M761.195 507.714C760.322 506.842 759.332 506.124 758.254 505.581C757.723 505.322 757.379 504.768 757.384 504.243L756.991 501.425C754.166 500.566 751.809 500.566 749.01 501.425L748.622 504.172C748.622 504.766 748.294 505.307 747.76 505.587C746.675 506.132 745.683 506.851 744.812 507.722C744.196 508.337 743.195 508.337 742.579 507.722L739.974 505.116C739.358 504.501 739.358 503.499 739.974 502.884C747.156 495.702 758.843 495.702 766.025 502.884C766.641 503.499 766.641 504.501 766.025 505.116L763.428 507.714C762.812 508.33 761.81 508.33 761.195 507.714Z" fill="white"/>
+</g>
+<circle cx="753" cy="434" r="25" fill="#E7E9EB"/>
+<circle cx="753" cy="434" r="10" fill="#C5C6C7"/>
+<circle cx="753" cy="374" r="25" fill="#E7E9EB"/>
+<circle cx="753" cy="374" r="10" fill="#C5C6C7"/>
+<circle cx="753" cy="314" r="25" fill="#E7E9EB"/>
+<circle cx="753" cy="314" r="10" fill="#C5C6C7"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="808" height="800" fill="white"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="20" height="20" transform="matrix(0.707107 0.707107 0.707107 -0.707107 738.857 504)" fill="white"/>
+</clipPath>
+</defs>
+</svg>
